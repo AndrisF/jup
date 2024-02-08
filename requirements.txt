@@ -1,5 +1,3 @@
-os
-keras 
 skimage.io 
 matplotlib.pyplot 
 numpy 
