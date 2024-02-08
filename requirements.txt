@@ -1,9 +1,10 @@
-skimage.io 
-matplotlib.pyplot 
-numpy 
-PIL 
-flask 
-ipywidgets 
-IPython 
-pandas 
-sys
+os==
+skimage.io== 
+matplotlib.pyplot ==
+numpy ==
+PIL ==
+flask ==
+ipywidgets ==
+IPython ==
+pandas ==
+sys==
