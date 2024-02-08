@@ -1,1 +1,11 @@
-# jup
+os
+keras
+skimage.io
+matplotlib.pyplot
+numpy
+PIL
+flask
+ipywidgets
+IPython
+pandas
+sys
