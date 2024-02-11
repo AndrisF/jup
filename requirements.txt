@@ -1,5 +1,5 @@
 lime==0.2.0.1
-keras==3.0.4
+keras==2.15.0
 tensorflow==2.15.0
 matplotlib==3.8.2
 numpy==1.26.4
